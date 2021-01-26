@@ -1,10 +1,10 @@
-[![Banner](./assets/banner.png)](https://iamstephan.dev)
+[![Banner](./assets/banner.png)](https://iamstephan.dev)>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamstephann/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/iamstephann/)
 
 # Hi there
-My name is Stephan Burger, and to make it even more obnoxiously obvious, I am a software developer. I am an absolute fanatic for creating applications from scratch, making them as fast as possible.
+My name is Stephan Burger, and to make it even more obvious, I am a software developer. I am an absolute fanatic for creating applications from scratch, making them as fast as possible.
 
 ## Probably my favourite tools
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,8 +31,8 @@ My name is Stephan Burger, and to make it even more obnoxiously obvious, I am a 
 
 ## Some of my github stats...
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstephan&layout=compact"/>
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iamstephan&show_icons=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstephan&layout=compact)
+![Github Score](https://github-readme-stats.vercel.app/api?username=iamstephan&show_icons=true)
 
 ## How to reach me:
 You can reach me through any of my social media platforms, or if you prefer you can either email or call me at:<br/><br/>
@@ -40,4 +40,8 @@ You can reach me through any of my social media platforms, or if you prefer you 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/iamstephann/)
 - stephanburger54@gmail.com
 - (+27) 62 909 8820
-## Fun fact:
+
+## Weird facts about me:
+- I used to study law but stopped in persuit of becoming a developer (I'm much more inclined towards developing)
+- Skateboarding is one of the ways I clear my mind, even though tend to fall a lot (isn't it quite similar to software development)
+- A friend and I started a psychological project that ended up winning quite a few awards.
