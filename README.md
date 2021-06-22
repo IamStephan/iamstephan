@@ -1,4 +1,4 @@
-[![Banner](./assets/banner.png)](https://iamstephan.dev)>
+[![Banner](./assets/banner.png)](https://iamstephan.dev)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamstephann/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/iamstephann/)
