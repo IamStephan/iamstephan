@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Stephan.
 
-#### I'm a Frontend develeoper.
+#### I'm a Frontend developer.
 
 - 🏢 I'm currently working at **Leverage BPO** as a Frontend web developer.
 - 💻 I use daily: `.js`, `.ts`, `.tsx`, `.jsx`, `.html`, `.scss`, `.php`.
