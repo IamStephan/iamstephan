@@ -2,7 +2,7 @@
 
 #### I'm a Frontend developer.
 
-- 🏢 I'm currently working at **Leverage BPO** as a Frontend web developer.
+- 🏢 I'm currently working at **Incon Health** as a Software developer.
 - 💻 I use daily: `.js`, `.ts`, `.tsx`, `.jsx`, `.html`, `.scss`, `.php`.
 - ⚛ I'm mostly active within the **React Community**.
 - 🌍 Learning all about **the world of Serverless**.
