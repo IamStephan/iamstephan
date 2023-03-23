@@ -3,10 +3,10 @@
 #### I'm a Frontend developer.
 
 - 🏢 I'm currently working at **Incon Health** as a Software developer.
-- 💻 I use daily: `.js`, `.ts`, `.tsx`, `.jsx`, `.html`, `.scss`, `.php`.
+- 💻 I use daily: `.ts (.js)`, `.tsx (.jsx)`, `.html`, `.scss`, `.rs`.
 - ⚛ I'm mostly active within the **React Community**.
-- 🌍 Learning all about **the world of Serverless**.
-- 💬 Ask me about **development**, **cross-platform development**, **designing**, **react**, **tailwind**.
+- 🌍 Learning all about the world of `.rs`.
+- 💬 Ask me about `development`, `cross-platform development`, `desig`, `react`, `typescript`, `tailwind` and `project architecture`.
 - 🛹 Fun fact: I like to go to the local skatepark to try new tricks (Even though I fall, a lot. Just like in development 🤓)
 
 #### How to reach me
